@@ -1,0 +1,56 @@
+sentence: [the house was burnt to ashes while the owner returned]
+word: [ashes]
+best sense is [ash] => (strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats)
+*
+sentence: [the key broke in the lock]
+word: [key]
+best sense is [key] => (provide with a key)
+*
+sentence: [his cottage is near a small wood]
+word: [wood]
+best sense is [forest] => (the trees and other plants in a large densely wooded area)
+*
+sentence: [the lunch with her boss took longer than she expected]
+word: [lunch]
+best sense is [lunch] => (take the midday meal)
+*
+sentence: [germany sells arms to Saudi Arabia]
+word: [arms]
+best sense is [arm] => (any projection that is thought to resemble a human arm)
+*
+sentence: [this table is made of ash wood]
+word: [ash]
+best sense is [ash] => (strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats)
+*
+sentence: [arms bend at the elbow]
+word: [arms]
+best sense is [arm] => (a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb)
+*
+sentence: [heat the solution to 75° Celsius]
+word: [solution]
+best sense is [solution] => (a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution)
+*
+sentence: [she packed her lunch in her purse]
+word: [lunch]
+best sense is [lunch] => (take the midday meal)
+*
+sentence: [the journal Science published the classification this month]
+word: [classification]
+best sense is [categorization] => (the act of distributing things into classes or categories of the same type)
+*
+sentence: [work out the solution in your head]
+word: [solution]
+best sense is [solution] => (a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution)
+*
+sentence: [the statue was made out of a block of wood]
+word: [wood]
+best sense is [wood] => (a golf club with a long shaft used to hit long shots; originally made with a wooden head)
+*
+sentence: [the classification of the genetic data took two years]
+word: [classification]
+best sense is [categorization] => (the act of distributing things into classes or categories of the same type)
+*
+sentence: [the key problem was not one of quality but of quantity]
+word: [key]
+best sense is [key] => (harmonize with or adjust to)
+*
